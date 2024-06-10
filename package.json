@@ -1,7 +1,6 @@
 {
   "name": "progect-redi",
   "private": true,
-  "homepage" : "https://talifa.github.io/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
